@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7226658138",
+    "project_id": "moneybag-a6237",
+    "storage_bucket": "moneybag-a6237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7226658138:android:c8f1a6168eb4ea733c7763",
+        "android_client_info": {
+          "package_name": "com.example.money_bag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7226658138-mvihhsmnoajllddfukg9e636f534f63v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3PSfx2iYntmJQ9wpbyJjhwVhCxWlLU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7226658138-mvihhsmnoajllddfukg9e636f534f63v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
